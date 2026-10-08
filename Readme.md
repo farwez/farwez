@@ -4,7 +4,7 @@
 
 ### Software • IoT • Embedded Systems • AI
 
-I build practical software applications and intelligent connected systems.
+Building practical software and intelligent connected systems.
 
 <p>
   <a href="https://github.com/farwez">
@@ -25,21 +25,21 @@ I build practical software applications and intelligent connected systems.
 
 💻 Interested in **Software Engineering & Full-Stack Development**
 
-🔌 Exploring **IoT, Embedded Systems & intelligent connected devices**
+🔌 Exploring **IoT, Embedded Systems & intelligent devices**
 
-🤖 Interested in applying **AI/ML to real-world problems**
+🤖 Exploring **AI/ML applications for real-world problems**
 
 🚀 I learn by building, experimenting and turning ideas into working systems.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📰 EduPulse
 
 **AI-Powered Daily Technology Digest**
 
-A Python automation that collects the latest technology news, generates
+A Python-powered automation that collects technology news, generates
 concise AI summaries using Groq, and delivers a personalized HTML
 newsletter through Brevo.
 
@@ -69,23 +69,27 @@ download generated audio.
 
 ### 📚 Smart Study Desk
 
-An **ESP32-based intelligent study environment** that combines multiple
-sensors, embedded processing and cloud connectivity.
+**ESP32-Based Intelligent Study Environment**
+
+A physical IoT prototype combining sensors, embedded processing,
+real-time monitoring and cloud connectivity.
 
 **ESP32 · Embedded C · Sensors · IoT · Firebase · Flutter**
 
-> 🔧 Hardware prototype
+🔧 Hardware Prototype
 
 ---
 
 ### ⚙️ Intelligent Motor Health Monitoring
 
-An **IoT + Machine Learning** system for monitoring motor condition,
-detecting abnormal behaviour and supporting predictive maintenance.
+**IoT + Machine Learning Predictive Maintenance**
+
+A system focused on monitoring motor condition, detecting abnormal
+behaviour, diagnosing faults and supporting predictive maintenance.
 
 **ESP32 · Sensors · IoT · Machine Learning**
 
-> 🚧 Final-year project — in development
+🚧 Final-Year Project — In Development
 
 ---
 
@@ -95,15 +99,15 @@ detecting abnormal behaviour and supporting predictive maintenance.
 
 `Python` `Java` `JavaScript` `C`
 
-**Software**
+**Software Development**
 
 `React` `Node.js` `Express` `MongoDB` `Flutter` `Firebase`
 
-**AI / Data**
+**AI & Data**
 
 `Scikit-learn` `AI APIs`
 
-**IoT / Embedded**
+**IoT & Embedded**
 
 `ESP32` `Arduino` `Embedded Systems` `Sensors`
 
@@ -113,34 +117,31 @@ detecting abnormal behaviour and supporting predictive maintenance.
 
 ---
 
-## 🎯 What I'm Working Towards
+## 🎯 What I'm Building Towards
 
-I'm building my skills across two connected areas:
-
-**Software Engineering**
+### 💻 Software Engineering
 
 Full-Stack Development · Backend · APIs · Databases · System Design
 
-**Intelligent Systems**
+### 🔌 Intelligent Systems
 
 IoT · Embedded Systems · Sensors · Machine Learning · Automation
 
-My goal is to build systems that are not only functional, but useful in
-the real world.
+I want to build systems that are not only functional, but genuinely
+useful in the real world.
 
 ---
 
 ## 📚 Currently Learning
 
-- Full-Stack Development
-- MERN Stack
-- REST APIs
-- Data Structures & Algorithms
-- Backend & Database Design
-- System Design
-- Embedded Systems
-- IoT
-- Machine Learning
+`Full-Stack Development`  
+`REST APIs`  
+`Data Structures & Algorithms`  
+`Backend & Database Design`  
+`System Design`  
+`Embedded Systems`  
+`IoT`  
+`Machine Learning`
 
 ---
 
@@ -173,6 +174,6 @@ problems and build things that actually work.
 
 ### ⚡ Build. Learn. Improve.
 
-**Thanks for visiting!**
+**Thanks for visiting my profile!**
 
 </div>
